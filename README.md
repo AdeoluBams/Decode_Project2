@@ -11,7 +11,7 @@ The data is provided by Decode Labs. It is present in the repository in the form
 - Stata - Statistical Analysis
 
 # Findings
-- [Download Here](https://github.com/AdeoluBams/Decode_Project2/blob/main/Decode_labs_project2_EDA.dta)
+- [Download Here](https://github.com/AdeoluBams/Decode_Project2/blob/main/StataSE-64_YV0CLhLl67.png)
 
 ## Reference
 [Stack Overflow](https://stackoverflow.com/)
